@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  TakeHomeProject
+//
+//  Created by Michael Willer on 14/09/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = 13197033-03eec42c293d2323112b4cca6
